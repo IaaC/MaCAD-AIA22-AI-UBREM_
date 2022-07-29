@@ -32,7 +32,7 @@
     <li><a href="#gh">Grasshopper Analytics and Generation</a></li>
     <li><a href="#web">Web development and Mapbox Integration</a></li>
     <li><a href="#bibliography">Bibliography and Other Resources</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Tools">Tools</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -203,4 +203,24 @@ The school typology layer where you alter the U-value of walls, windows, basemen
 
 
 Layer_7
-This solar radiation prediction of the selected buildings in vienna city . It refelcts the PV otential as renewable energy resource support to the building to meet its BEC. Hence, this contributes to meet PED conceptualization manifestation. 
+This solar radiation prediction of the selected buildings in vienna city . It refelcts the PV otential as renewable energy resource support to the building to meet its BEC. Hence, this contributes to meet PED conceptualization manifestation.
+
+
+
+<!-- Tools -->
+## Tools
+
+• Mapbox API
+Embed mapping functions within the web
+LINK: https://docs.mapbox.com/api/overview/
+Feedback Stuff
+
+
+
+<!-- Contact-->
+## contact
+ For any inquiry for further support kindly contact out team members at sammar.allam@students.iaac.net , Naitik.sharma@students.iaac.net , Alexander.lopez@Students.iaac.net
+
+<!-- Acknowledgements-->
+## acknowledgements
+The Team is grateful for all the faculty members support in Studio and other faculty members ho contributed in colab troubleshooting and building the database. The Team is grateful to Dai Kandil who has supported us in colab. We  would like to thank UN-funded projects like Entraz and Tabular for publishing their reports about Vienns city studies and results which has contributed to know more about the city building typologies, building envelop types and their correspondant U-value and energy consumption pattern.
