@@ -54,7 +54,7 @@ AI-UBREM addresses Energy consumption(EC) mitigation to manifest the concept of 
 <!-- Credits -->
 ## Credits
 
-AI-UBREM is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Module of Artificial Intellignece in Architecture (AIA) for  MACAD in 2022/23 by Sammar Z. Allam, Naitik Sharma, and Alexander Lopez. Faculty: Angelos Chronis .
+AI-UBREM is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Module of Artificial Intellignece in Architecture (AIA) for  MACAD in 2022/23 by Sammar Z. Allam, Naitik Sharma, and Alexander Lopez. Faculty: Angelos Chronis .Faculty Assistant: Serjoscha Duering+ Aleksandra Jastrzebska + Nariddh Khean. Faculty director: David Leon.
 
 <!-- Data-Generation-->
 ## Data-Preparation
